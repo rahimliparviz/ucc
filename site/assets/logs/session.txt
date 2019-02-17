@@ -1,0 +1,4 @@
+2018-11-29 15:04:31	admin	http://localhost:8080/ucc/admin/login/	Successful login for 'admin'
+2018-11-30 10:33:04	admin	http://localhost:8080/ucc/admin/login/	Successful login for 'admin'
+2018-12-03 10:55:58	?	?	User 'admin' - Session timed out (session older than 86400 seconds) (IP: 0.0.0.0)
+2018-12-03 11:21:11	admin	http://localhost:8080/ucc/admin/login/	Successful login for 'admin'

@@ -1,0 +1,51 @@
+2018-11-29 15:01:50	?	?	Saved module 'SystemUpdater' config data
+2018-11-29 15:01:56	?	?	Saved module info caches
+2018-11-29 15:01:58	guest	http://localhost:8080/ucc/en/http404/	Saved module info caches
+2018-11-29 15:01:59	guest	http://localhost:8080/ucc/en/http404/	Installed module 'ProcessRecentPages'
+2018-11-29 15:02:01	guest	http://localhost:8080/ucc/en/http404/	Saved module info caches
+2018-11-29 15:02:01	guest	http://localhost:8080/ucc/en/http404/	Saved module 'SystemUpdater' config data
+2018-11-29 15:02:03	guest	http://localhost:8080/ucc/en/http404/	Saved module info caches
+2018-11-29 15:02:04	guest	http://localhost:8080/ucc/en/http404/	Installed module 'AdminThemeUikit'
+2018-11-29 15:02:05	guest	http://localhost:8080/ucc/en/http404/	Saved module info caches
+2018-11-29 15:02:39	guest	http://localhost:8080/ucc/en/http404/	Saved module info caches
+2018-11-29 15:02:40	guest	http://localhost:8080/ucc/en/http404/	Installed module 'ProcessLogger'
+2018-11-29 15:02:41	guest	http://localhost:8080/ucc/en/http404/	Saved module info caches
+2018-11-29 15:02:41	guest	http://localhost:8080/ucc/en/http404/	Installed module 'InputfieldIcon'
+2018-11-29 15:02:43	guest	http://localhost:8080/ucc/en/http404/	Saved module info caches
+2018-11-29 15:02:43	guest	http://localhost:8080/ucc/en/http404/	Saved module 'SystemUpdater' config data
+2018-11-29 15:02:50	guest	http://localhost:8080/ucc/	Saved module 'SystemUpdater' config data
+2018-11-29 15:02:54	?	?	Saved module 'SystemUpdater' config data
+2018-11-29 15:02:56	?	?	Saved module info caches
+2018-11-29 15:02:57	guest	http://localhost:8080/ucc/en/about/	Saved module 'SystemUpdater' config data
+2018-11-29 15:03:02	guest	http://localhost:8080/ucc/en/site-map/	Saved module 'SystemUpdater' config data
+2018-11-29 15:03:26	?	?	Saved module info caches
+2018-11-29 15:03:27	?	?	Saved module 'SystemUpdater' config data
+2018-11-29 15:03:29	?	?	Saved module info caches
+2018-11-29 15:03:30	guest	http://localhost:8080/ucc/admin/login/	Saved module 'ProcessProfile' config data
+2018-11-29 15:03:30	guest	http://localhost:8080/ucc/admin/login/	Saved module 'SystemUpdater' config data
+2018-11-29 17:01:41	admin	http://localhost:8080/ucc/admin/setup/languages/edit/?id=1013	Saved module 'LanguageSupport' config data
+2018-11-29 17:07:37	admin	http://localhost:8080/ucc/admin/setup/languages/edit/?id=1012	Saved module 'LanguageSupport' config data
+2018-11-30 14:20:08	admin	http://localhost:8080/ucc/admin/module/	Saved module info caches
+2018-11-30 14:20:17	admin	http://localhost:8080/ucc/admin/module/?reset=1	Saved module info caches
+2018-11-30 14:20:27	admin	http://localhost:8080/ucc/admin/module/	Installed module 'InputfieldFontIconPicker'
+2018-11-30 14:20:27	admin	http://localhost:8080/ucc/admin/module/	Installed module 'MarkupFontIconPicker'
+2018-11-30 14:20:27	admin	http://localhost:8080/ucc/admin/module/	Installed module 'FieldtypeFontIconPicker'
+2018-11-30 14:20:29	admin	http://localhost:8080/ucc/admin/module/	Saved module info caches
+2018-11-30 14:20:34	admin	http://localhost:8080/ucc/admin/module/edit?name=FieldtypeFontIconPicker	Saved module 'FieldtypeFontIconPicker' config data
+2018-11-30 14:58:16	admin	http://localhost:8080/ucc/admin/module/	Saved module 'FieldtypeRepeater' config data
+2018-11-30 14:58:16	admin	http://localhost:8080/ucc/admin/module/	Installed module 'InputfieldRepeater'
+2018-11-30 14:58:16	admin	http://localhost:8080/ucc/admin/module/	Installed module 'FieldtypeRepeater'
+2018-11-30 15:01:15	admin	http://localhost:8080/ucc/admin/module/edit?name=FieldtypeFontIconPicker	Saved module 'FieldtypeFontIconPicker' config data
+2018-11-30 15:01:21	admin	http://localhost:8080/ucc/admin/module/edit?name=FieldtypeFontIconPicker&collapse_info=1	Saved module 'FieldtypeFontIconPicker' config data
+2018-11-30 15:01:39	admin	http://localhost:8080/ucc/admin/module/edit?name=InputfieldFontIconPicker	Saved module 'InputfieldFontIconPicker' config data
+2018-11-30 15:01:43	admin	http://localhost:8080/ucc/admin/module/edit?name=InputfieldFontIconPicker&collapse_info=1	Saved module 'InputfieldFontIconPicker' config data
+2018-12-03 15:41:13	admin	http://localhost:8080/ucc/admin/module/	Saved module info caches
+2018-12-03 15:41:23	admin	http://localhost:8080/ucc/admin/module/?reset=1	Saved module info caches
+2018-12-03 15:41:43	admin	http://localhost:8080/ucc/admin/module/	Installed module 'WireMailSmtp'
+2018-12-03 15:41:45	admin	http://localhost:8080/ucc/admin/module/	Saved module info caches
+2018-12-03 15:42:15	admin	http://localhost:8080/ucc/admin/module/edit?name=WireMailSmtp	Saved module 'WireMailSmtp' config data
+2018-12-04 10:46:47	admin	http://localhost:8080/ucc/admin/module/edit?name=WireMailSmtp&collapse_info=1	Saved module 'WireMailSmtp' config data
+2018-12-04 10:47:37	admin	http://localhost:8080/ucc/admin/module/edit?name=WireMailSmtp&collapse_info=1	Saved module 'WireMailSmtp' config data
+2018-12-04 10:56:51	admin	http://localhost:8080/ucc/admin/module/edit?name=WireMailSmtp&collapse_info=1	Saved module 'WireMailSmtp' config data
+2018-12-04 15:02:43	admin	http://localhost:8080/ucc/admin/setup/languages/add/	Saved module 'LanguageSupport' config data
+2018-12-04 15:03:54	admin	http://localhost:8080/ucc/admin/setup/languages/add/	Saved module 'LanguageSupport' config data

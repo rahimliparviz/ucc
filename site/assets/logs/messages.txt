@@ -1,0 +1,17 @@
+2018-11-29 15:02:51	guest	http://localhost:8080/ucc/	Added filedata to DB schema for 'images'
+2018-11-29 17:01:31	admin	http://localhost:8080/ucc/admin/setup/languages/edit/?id=1013	Added filedata to DB schema for 'language_files_site'
+2018-11-29 17:01:31	admin	http://localhost:8080/ucc/admin/setup/languages/edit/?id=1013	Added filedata to DB schema for 'language_files'
+2018-11-30 10:51:06	admin	http://localhost:8080/ucc/admin/setup/template/removeFields	Deleted field &quot;page_title&quot; data in 0 row(s) from 0 page(s) using template &quot;about&quot;. [page-by-page]
+2018-11-30 10:52:20	admin	http://localhost:8080/ucc/admin/setup/template/removeFields	Deleted field &quot;read_more&quot; data in 0 row(s) from 0 page(s) using template &quot;about&quot;. [page-by-page]
+2018-11-30 11:11:35	admin	http://localhost:8080/ucc/admin/setup/template/removeFields	Deleted field &quot;headline&quot; data in 1 row(s) from 1 page(s) using template &quot;home&quot;. [page-by-page]
+2018-11-30 11:11:35	admin	http://localhost:8080/ucc/admin/setup/template/removeFields	Deleted field &quot;summary&quot; data in 1 row(s) from 1 page(s) using template &quot;home&quot;. [page-by-page]
+2018-11-30 11:11:35	admin	http://localhost:8080/ucc/admin/setup/template/removeFields	Deleted field &quot;body&quot; data in 1 row(s) from 1 page(s) using template &quot;home&quot;. [page-by-page]
+2018-11-30 11:11:35	admin	http://localhost:8080/ucc/admin/setup/template/removeFields	Deleted field &quot;sidebar&quot; data in 1 row(s) from 1 page(s) using template &quot;home&quot;. [page-by-page]
+2018-11-30 11:11:35	admin	http://localhost:8080/ucc/admin/setup/template/removeFields	Deleted field &quot;images&quot; data in 2 row(s) from 1 page(s) using template &quot;home&quot;. [page-by-page]
+2018-11-30 11:11:35	admin	http://localhost:8080/ucc/admin/setup/template/removeFields	Deleted field &quot;page_logo&quot; data in 0 row(s) from 0 page(s) using template &quot;home&quot;. [page-by-page]
+2018-11-30 11:13:29	admin	http://localhost:8080/ucc/admin/setup/template/removeFields	Deleted field &quot;page_logo&quot; data in 0 row(s) from 0 page(s) using template &quot;basic-page&quot;. [page-by-page]
+2018-11-30 14:01:49	admin	http://localhost:8080/ucc/admin/setup/template/removeFields	Deleted field &quot;page_info&quot; data in 0 row(s) from 0 page(s) using template &quot;contact&quot;. [page-by-page]
+2018-12-03 14:19:46	admin	http://localhost:8080/ucc/admin/setup/template/removeFields	Deleted field &quot;page_logo&quot; data in 0 row(s) from 0 page(s) using template &quot;inner-portfolio&quot;. [page-by-page]
+2018-12-03 14:19:46	admin	http://localhost:8080/ucc/admin/setup/template/removeFields	Deleted field &quot;images&quot; data in 0 row(s) from 0 page(s) using template &quot;inner-portfolio&quot;. [page-by-page]
+2018-12-03 14:19:46	admin	http://localhost:8080/ucc/admin/setup/template/removeFields	Deleted field &quot;page_info&quot; data in 6 row(s) from 6 page(s) using template &quot;inner-portfolio&quot;. [page-by-page]
+2018-12-03 15:24:03	admin	http://localhost:8080/ucc/admin/setup/template/removeFields	Deleted field &quot;partner_name&quot; data in 0 row(s) from 0 page(s) using template &quot;inner-portfolio&quot;. [page-by-page]
